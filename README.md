@@ -291,8 +291,6 @@ various tasks:
 
 ## Limitations
 
-  * No way to specify a different branch when cloning (must switch it after).
-  * No way to specify a different branch when making releases.
   * No way to register multiple remotes for the same repo and specify
   the remote when cloning.
 
