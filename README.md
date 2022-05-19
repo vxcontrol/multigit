@@ -1,6 +1,6 @@
 # :trident: multigit
 
-## Layered Git Repositories | **Linux**, **Windows**, **Mac**
+## Layered Git Repositories
 
 Multigit allows checking out multiple git repositories overlaid
 onto the same directory.
@@ -27,6 +27,8 @@ and module management could be useful:
 Multigit is a simple shell script with no dependencies. You can either
 put it somewhere in your `$PATH`, or you can clone it _as your project folder_,
 and call it as `./mgit` (or `mgit` on Windows) from inside that folder.
+
+Multigit works on **Linux**, **Windows** and **Mac**.
 
 ### Quick install/upgrade on Linux
 
