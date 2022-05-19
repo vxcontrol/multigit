@@ -1,4 +1,4 @@
-# multigit
+# :trident: multigit
 
 ## Layered Git Repositories | **Linux**, **Windows**, **Mac**
 
